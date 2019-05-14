@@ -70,3 +70,9 @@ https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp
 A Primer on Neural Network Models for Natural Language Processing by Yoav Goldberg
 
 u.cs.biu.ac.il/~yogo/nnlp.pdf
+
+
+### Other resources
+Lars Juhl Jensen slideshare
+
+https://www.slideshare.net/larsjuhljensen
