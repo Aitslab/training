@@ -1,11 +1,23 @@
 # Training resources
 Training materials related to data science and artificial intelligence, especially for life scientists. Resources which are not available for free are marked $)
 
+## Python
+Python NumPy tutorial
+http://cs231n.github.io/python-numpy-tutorial/
+
+
 ## Machine Learning & Deep Learning
+### Courses
+Machine learning course from Stanford
+https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+http://cs229.stanford.edu/syllabus.html
+
+
 ### Books
 Machine learning book by Hal Daumé III
 
 http://ciml.info/
+
 
 
 Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
@@ -13,14 +25,17 @@ Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
 https://www.deeplearningbook.org/
 
 
+
 Neural Networks and Deep Learning by Michael A. Nielsen
 
 http://neuralnetworksanddeeplearning.com/
  
 
+
 Introduction to Deep Learning by Eugene Charniak ($)
 
 https://mitpress.mit.edu/books/introduction-deep-learning
+
 
 
 ## Computer vision
@@ -37,12 +52,18 @@ NLP course from Stanford
 
 https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 
+
 ### Books
 Speech and Language Processing by Dan Jurafsky and James H. Martin
+
 https://web.stanford.edu/~jurafsky/slp3/
 
+
 Natural Language Processing by Jacob Eisenstein
+
 https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf
 
+
 A Primer on Neural Network Models for Natural Language Processing by Yoav Goldberg
+
 u.cs.biu.ac.il/~yogo/nnlp.pdf
