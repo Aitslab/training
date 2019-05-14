@@ -1,6 +1,7 @@
 # Training resources
 Training materials related to data science and artificial intelligence, especially for life scientists. Resources which are not available for free are marked $)
 
+
 ## Python
 Python NumPy tutorial
 http://cs231n.github.io/python-numpy-tutorial/
@@ -9,7 +10,9 @@ http://cs231n.github.io/python-numpy-tutorial/
 ## Machine Learning & Deep Learning
 ### Courses
 Machine learning course from Stanford
+
 https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+
 http://cs229.stanford.edu/syllabus.html
 
 
