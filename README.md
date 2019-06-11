@@ -7,6 +7,27 @@ Official Python documentation
 
 https://docs.python.org/3.7/
 
+ipython
+
+http://ipython.org/
+
+numpy
+
+http://www.numpy.org/
+
+
+pandas
+
+http://pandas.pydata.org/
+
+matplotlib
+
+https://matplotlib.org/
+
+scikit-learn
+
+https://scikit-learn.org/
+
 Python NumPy tutorial
 
 http://cs231n.github.io/python-numpy-tutorial/
@@ -20,6 +41,18 @@ http://shop.oreilly.com/product/9780596158118.do
 Learning Python, 5th Edition by Mark Lutz ($)
 
 http://shop.oreilly.com/product/0636920028154.do
+
+
+A Whirlwind tour of Python by Jake VanderPlas
+
+for people familiar with programming
+
+https://github.com/jakevdp/WhirlwindTourOfPython
+
+
+Python Data Science Hanbook by Jake VanderPlas
+
+https://github.com/jakevdp/PythonDataScienceHandbook
 
 
 ## Machine Learning & Deep Learning
