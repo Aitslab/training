@@ -61,6 +61,10 @@ Python NumPy tutorial
 
 http://cs231n.github.io/python-numpy-tutorial/
 
+Lectures on scientific computing with Python
+
+https://github.com/jrjohansson/scientific-python-lectures/tree/master/
+
 
 ## Machine Learning & Deep Learning
 ### Courses
