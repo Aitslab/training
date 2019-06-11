@@ -2,6 +2,24 @@
 Training materials related to data science and artificial intelligence. Resources which are not available for free are marked $)
 
 
+## General
+Anaconda installation
+
+https://www.datacamp.com/community/tutorials/installing-anaconda-windows
+
+
+Jupyter notebooks
+
+https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+
+
+Markdown basics
+
+https://guides.github.com/features/mastering-markdown/
+
+
+
+
 ## Python
 Official Python documentation
 
