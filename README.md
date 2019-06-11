@@ -1,5 +1,5 @@
 # Training resources
-Training materials related to data science and artificial intelligence. Resources which are not available for free are marked $)
+Training materials related to data science and artificial intelligence. Resources which are not available for free are marked ($)
 
 
 ## General
