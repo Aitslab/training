@@ -28,9 +28,6 @@ scikit-learn
 
 https://scikit-learn.org/
 
-Python NumPy tutorial
-
-http://cs231n.github.io/python-numpy-tutorial/
 
 ### Books
 Programming Python, 4th Edition by Mark Lutz ($)
@@ -53,6 +50,16 @@ https://github.com/jakevdp/WhirlwindTourOfPython
 Python Data Science Hanbook by Jake VanderPlas
 
 https://github.com/jakevdp/PythonDataScienceHandbook
+
+
+### Other resources
+List of Python learning resources 
+
+https://forums.fast.ai/t/recommended-python-learning-resources/26888
+
+Python NumPy tutorial
+
+http://cs231n.github.io/python-numpy-tutorial/
 
 
 ## Machine Learning & Deep Learning
@@ -90,6 +97,7 @@ https://mitpress.mit.edu/books/introduction-deep-learning
 
 
 ## Computer vision
+### Courses 
 Computer vision course from Stanford
 
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
@@ -98,7 +106,7 @@ http://cs231n.github.io/
 
 
 ## NLP
-### Course 
+### Courses 
 NLP course from Stanford
 
 https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
