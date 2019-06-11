@@ -4,10 +4,22 @@ Training materials related to data science and artificial intelligence. Resource
 
 ## Python
 Official Python documentation
+
 https://docs.python.org/3.7/
 
 Python NumPy tutorial
+
 http://cs231n.github.io/python-numpy-tutorial/
+
+### Books
+Programming Python, 4th Edition by Mark Lutz ($)
+
+http://shop.oreilly.com/product/9780596158118.do
+
+
+Learning Python, 5th Edition by Mark Lutz ($)
+
+http://shop.oreilly.com/product/0636920028154.do
 
 
 ## Machine Learning & Deep Learning
