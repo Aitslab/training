@@ -79,6 +79,10 @@ Python NumPy tutorial
 
 http://cs231n.github.io/python-numpy-tutorial/
 
+Official Pytorch tutorial
+
+https://pytorch.org/tutorials/beginner/nn_tutorial.html
+
 Lectures notes on Python
 
 https://github.com/jrjohansson/scientific-python-lectures/tree/master/
