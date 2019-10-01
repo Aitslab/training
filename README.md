@@ -92,7 +92,7 @@ https://github.com/NBISweden/workshop-python/tree/ht18
 https://github.com/mgalardini/2016_python_course/blob/master/notebooks/%5B0%5D-Introduction_to_Jupyter_Notebook.ipynb
 
 
-## Machine Learning & Deep Learning
+## AI & Machine Learning & Deep Learning
 ### Courses
 Machine learning course from Stanford
 
@@ -125,6 +125,14 @@ Introduction to Deep Learning by Eugene Charniak ($)
 https://mitpress.mit.edu/books/introduction-deep-learning
 
 
+Deep Learning with Python by François Chollet ($)
+https://www.manning.com/books/deep-learning-with-python
+
+
+Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig ($)
+http://aima.cs.berkeley.edu/
+ 
+
 
 ## Computer vision
 ### Courses 
@@ -134,6 +142,17 @@ https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
 http://cs231n.github.io/
 
+
+### Books
+
+Computer Vision: Algorithms and Applications by Richard Szeliski
+
+http://szeliski.org/Book/
+
+
+### Other resources
+
+https://github.com/jbhuang0604/awesome-computer-vision
 
 ## NLP
 ### Courses 
