@@ -18,6 +18,11 @@ Markdown basics
 https://guides.github.com/features/mastering-markdown/
 
 
+Software engineering best practices
+
+https://www.pythonlikeyoumeanit.com/Module5_OddsAndEnds/Writing_Good_Code.html
+
+https://scikit-learn.org/stable/developers/contributing.html
 
 
 ## Python
@@ -45,6 +50,17 @@ https://matplotlib.org/
 scikit-learn
 
 https://scikit-learn.org/
+
+
+### Courses
+
+Codecademy Python course
+
+https://www.codecademy.com/learn/learn-python
+
+Dataquest Data Analyst path (some free, some $)
+
+https://www.dataquest.io/path/data-analyst/
 
 
 ### Books
@@ -92,6 +108,11 @@ https://github.com/NBISweden/workshop-python/tree/ht18
 https://github.com/mgalardini/2016_python_course/blob/master/notebooks/%5B0%5D-Introduction_to_Jupyter_Notebook.ipynb
 
 
+## R
+### Courses
+https://www.codecademy.com/learn/learn-r
+
+
 ## AI & Machine Learning & Deep Learning
 ### Courses
 Machine learning course from Stanford
@@ -99,6 +120,11 @@ Machine learning course from Stanford
 https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 
 http://cs229.stanford.edu/syllabus.html
+
+
+Material from Andreas Mueller's courses
+
+https://github.com/amueller
 
 
 ### Books
@@ -181,3 +207,10 @@ u.cs.biu.ac.il/~yogo/nnlp.pdf
 Lars Juhl Jensen slideshare
 
 https://www.slideshare.net/larsjuhljensen
+
+
+
+## SQL
+### Courses 
+Codecademy SQL course
+https://www.codecademy.com/learn/learn-sql
