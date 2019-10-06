@@ -151,7 +151,7 @@ Introduction to Deep Learning by Eugene Charniak ($)
 https://mitpress.mit.edu/books/introduction-deep-learning
 
 
-Deep Learning with Python by François Chollet ($)
+Deep Learning with Python by François Chollet
 https://www.manning.com/books/deep-learning-with-python
 
 
