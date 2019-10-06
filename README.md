@@ -152,11 +152,18 @@ https://mitpress.mit.edu/books/introduction-deep-learning
 
 
 Deep Learning with Python by François Chollet
+
 https://www.manning.com/books/deep-learning-with-python
 
 
 Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig ($)
+
 http://aima.cs.berkeley.edu/
+
+
+Reinforcement Learning, An Introduction by R. Sutton & A.G. Barto
+
+http://incompleteideas.net/sutton/book/the-book-2nd.html (draft)
  
 
 
