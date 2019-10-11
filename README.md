@@ -171,6 +171,8 @@ http://incompleteideas.net/sutton/book/the-book-2nd.html (draft)
 ### Courses 
 Computer vision course from Stanford
 
+http://cs231n.stanford.edu/
+
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
 http://cs231n.github.io/
