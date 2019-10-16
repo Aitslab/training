@@ -1,6 +1,6 @@
 # Training resources
-Training materials related to data science and artificial intelligence. Resources which are not available for free are marked ($)
-You can also find links to organizations which provide physical courses (in physicalcourses.md) and links to data sources (in datasources.md)
+Training materials related to data science and artificial intelligence. Resources which are not available for free are marked ($).
+You can find links to organizations which provide physical courses (in physicalcourses.md) and links to data sources (in datasources.md)
 
 
 ## General
