@@ -186,6 +186,9 @@ Computer Vision: Algorithms and Applications by Richard Szeliski
 http://szeliski.org/Book/
 
 
+Computer Vision - A Modern Approach by  David A. Forsyth and Jean Ponce ($)
+
+
 ### Other resources
 
 https://github.com/jbhuang0604/awesome-computer-vision
