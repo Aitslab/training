@@ -199,6 +199,10 @@ NLP course from Stanford
 
 https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 
+Natural Language Processing from Coursera
+
+https://www.coursera.org/learn/language-processing
+
 
 ### Books
 Speech and Language Processing by Dan Jurafsky and James H. Martin
