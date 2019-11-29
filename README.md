@@ -166,6 +166,13 @@ Reinforcement Learning, An Introduction by R. Sutton & A.G. Barto
 
 http://incompleteideas.net/sutton/book/the-book-2nd.html (draft)
  
+ 
+### Other resources
+NIPS 2016 Tutorial: Generative Adversarial Networks by Ian Goodfellow
+
+https://arxiv.org/abs/1701.00160
+
+https://www.youtube.com/watch?v=AJVyzd0rqdc
 
 
 ## Computer vision
