@@ -179,6 +179,10 @@ Reports on business and societal impact of AI by McKinsey
 
 https://www.mckinsey.com/featured-insights/artificial-intelligence
 
+Reports on business and societal impact of AI by PWC
+
+https://www.pwc.com/gx/en/issues/data-and-analytics/artificial-intelligence.html
+
 
 ## Computer vision
 ### Courses 
