@@ -174,6 +174,10 @@ https://arxiv.org/abs/1701.00160
 
 https://www.youtube.com/watch?v=AJVyzd0rqdc
 
+AI Lund tv: videos from seminars and workshops @ Lund University
+
+http://ai.lu.se/tv/
+
 
 Reports on business and societal impact of AI by McKinsey
 
@@ -182,6 +186,8 @@ https://www.mckinsey.com/featured-insights/artificial-intelligence
 Reports on business and societal impact of AI by PWC
 
 https://www.pwc.com/gx/en/issues/data-and-analytics/artificial-intelligence.html
+
+
 
 
 ## Computer vision
