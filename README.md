@@ -175,6 +175,11 @@ https://arxiv.org/abs/1701.00160
 https://www.youtube.com/watch?v=AJVyzd0rqdc
 
 
+Reports on business and societal impact of AI by McKinsey
+
+https://www.mckinsey.com/featured-insights/artificial-intelligence
+
+
 ## Computer vision
 ### Courses 
 Computer vision course from Stanford
