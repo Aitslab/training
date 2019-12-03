@@ -165,6 +165,17 @@ http://aima.cs.berkeley.edu/
 Reinforcement Learning, An Introduction by R. Sutton & A.G. Barto
 
 http://incompleteideas.net/sutton/book/the-book-2nd.html (draft)
+
+
+Artificial Intelligence: Foundations of Computational Agents (2nd Edition) by David L. Poole and Alan K. Mackworth 
+
+https://artint.info/2e/html/ArtInt2e.html
+
+
+Machine Learning Yearning: Technical Strategy for AI Engineers, In the Era of Deep Learning
+by Andrew Ng
+
+https://www.deeplearning.ai/machine-learning-yearning/
  
  
 ### Other resources
