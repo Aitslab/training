@@ -116,11 +116,19 @@ https://www.codecademy.com/learn/learn-r
 
 ## AI & Machine Learning & Deep Learning
 ### Courses
-Machine learning course from Stanford
+CS229 Machine learning course from Stanford
 
 https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 
 http://cs229.stanford.edu/syllabus.html
+
+CS221 Artificial Intelligence course from Stanford
+
+https://stanford-cs221.github.io/autumn2019/
+
+Fast.ai courses
+
+www.fast.ai
 
 
 Material from Andreas Mueller's courses
@@ -228,9 +236,15 @@ https://github.com/jbhuang0604/awesome-computer-vision
 
 ## NLP
 ### Courses 
-NLP course from Stanford
+CS224n NLP course from Stanford
+
+http://web.stanford.edu/class/cs224n/
 
 https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
+
+Fast.ai NLP course
+
+https://www.fast.ai/2019/07/08/fastai-nlp/
 
 Natural Language Processing from Coursera
 
@@ -254,6 +268,10 @@ u.cs.biu.ac.il/~yogo/nnlp.pdf
 
 
 ### Other resources
+SciSpacy
+
+https://github.com/allenai/scispacy
+
 Lars Juhl Jensen slideshare
 
 https://www.slideshare.net/larsjuhljensen
