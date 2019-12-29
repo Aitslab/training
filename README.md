@@ -114,6 +114,16 @@ https://github.com/mgalardini/2016_python_course/blob/master/notebooks/%5B0%5D-I
 https://www.codecademy.com/learn/learn-r
 
 
+## Regular expressions
+
+https://www.youtube.com/watch?v=DRR9fOXkfRE&feature=youtu.be
+
+https://regexr.com/
+
+https://regexone.com/
+
+https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/
+
 ## AI & Machine Learning & Deep Learning
 ### Courses
 CS229 Machine learning course from Stanford
@@ -197,6 +207,9 @@ AI Lund tv: videos from seminars and workshops @ Lund University
 
 http://ai.lu.se/tv/
 
+Pytorch tutorial by Jeremy Howard
+
+https://pytorch.org/tutorials/beginner/nn_tutorial.html
 
 Reports on business and societal impact of AI by McKinsey
 
