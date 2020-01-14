@@ -265,6 +265,14 @@ Natural Language Processing from Coursera
 
 https://www.coursera.org/learn/language-processing
 
+Spacy course
+
+https://course.spacy.io/
+
+AllenNLP tutorials
+
+https://allennlp.org/tutorials
+
 
 ### Books
 Speech and Language Processing by Dan Jurafsky and James H. Martin
