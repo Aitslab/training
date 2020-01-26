@@ -290,6 +290,19 @@ A Primer on Neural Network Models for Natural Language Processing by Yoav Goldbe
 u.cs.biu.ac.il/~yogo/nnlp.pdf
 
 
+###Blogs
+https://ruder.io/
+
+https://jalammar.github.io/
+
+http://www.abigailsee.com/
+
+https://medium.com/@joycex99
+
+https://smerity.com/articles/articles.html
+
+https://towardsdatascience.com/evaluating-text-output-in-nlp-bleu-at-your-own-risk-e8609665a213
+
 ### Other resources
 SciSpacy
 
