@@ -291,6 +291,7 @@ u.cs.biu.ac.il/~yogo/nnlp.pdf
 
 
 ###Blogs
+
 https://ruder.io/
 
 https://jalammar.github.io/
