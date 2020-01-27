@@ -25,6 +25,14 @@ https://www.pythonlikeyoumeanit.com/Module5_OddsAndEnds/Writing_Good_Code.html
 
 https://scikit-learn.org/stable/developers/contributing.html
 
+Hardware recommendations
+
+https://blog.slavv.com/picking-a-gpu-for-deep-learning-3d4795c273b9
+
+### Tech blogs
+
+https://jvns.ca/
+
 
 ## Python
 Official Python documentation
@@ -51,6 +59,8 @@ https://matplotlib.org/
 scikit-learn
 
 https://scikit-learn.org/
+
+
 
 
 ### Courses
@@ -108,6 +118,9 @@ https://github.com/NBISweden/workshop-python/tree/ht18
 
 https://github.com/mgalardini/2016_python_course/blob/master/notebooks/%5B0%5D-Introduction_to_Jupyter_Notebook.ipynb
 
+Peter Norvig's python training examples
+
+https://github.com/norvig/pytudes#pytudes-index-of-jupyter-ipython-notebooks
 
 ## R
 ### Courses
@@ -289,8 +302,16 @@ A Primer on Neural Network Models for Natural Language Processing by Yoav Goldbe
 
 u.cs.biu.ac.il/~yogo/nnlp.pdf
 
+Introduction to Information Retrieval by Christopher D. Manning, Prabhakar Raghavan & Hinrich Schütze 
 
-###Blogs
+https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html
+
+Natural Language Processing with PyTorch by Brian McMahan, Delip Rao ($)
+
+https://www.oreilly.com/library/view/natural-language-processing/9781491978221/
+
+
+### Blogs
 
 https://ruder.io/
 
@@ -319,3 +340,9 @@ https://www.slideshare.net/larsjuhljensen
 ### Courses 
 Codecademy SQL course
 https://www.codecademy.com/learn/learn-sql
+
+
+## Mathematics
+List of statistics resources
+
+https://jvns.ca/blog/2017/04/17/statistics-for-programmers/
