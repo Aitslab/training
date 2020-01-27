@@ -29,6 +29,8 @@ Hardware recommendations
 
 https://blog.slavv.com/picking-a-gpu-for-deep-learning-3d4795c273b9
 
+https://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/
+
 ### Tech blogs
 
 https://jvns.ca/
