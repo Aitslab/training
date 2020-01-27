@@ -348,3 +348,7 @@ https://www.codecademy.com/learn/learn-sql
 List of statistics resources
 
 https://jvns.ca/blog/2017/04/17/statistics-for-programmers/
+
+## Practice datasets
+https://scikit-learn.org/stable/datasets/
+
