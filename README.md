@@ -285,6 +285,10 @@ Natural Language Processing from Coursera
 
 https://www.coursera.org/learn/language-processing
 
+Applied Text Mining in Python from Univ. of Michigan/Coursera
+
+https://www.coursera.org/learn/python-text-mining/home/welcome
+
 Spacy course
 
 https://course.spacy.io/
@@ -336,6 +340,20 @@ https://towardsdatascience.com/evaluating-text-output-in-nlp-bleu-at-your-own-ri
 SciSpacy
 
 https://github.com/allenai/scispacy
+
+Python regular expressions documentation
+
+https://docs.python.org/3/library/re.html
+
+Tutorials about text cleaning
+
+https://www.analyticsvidhya.com/blog/2014/11/text-data-cleaning-steps-python/
+
+http://ieva.rocks/2016/08/07/cleaning-text-for-nlp/
+
+https://chrisalbon.com/python/basics/cleaning_text/
+
+http://rjweiss.github.io/text-iriss2013/
 
 Lars Juhl Jensen slideshare
 
