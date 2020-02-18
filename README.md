@@ -72,6 +72,13 @@ https://scikit-learn.org/
 
 ### Courses
 
+Python courses by University of Michigan on coursera or edx
+
+https://www.coursera.org/specializations/python
+
+https://www.edx.org/bio/charles-severance
+
+
 Codecademy Python course
 
 https://www.codecademy.com/learn/learn-python
@@ -82,6 +89,10 @@ https://www.dataquest.io/path/data-analyst/
 
 
 ### Books
+Python for Everybody: Exploring Data In Python 3 by Charles Severance
+
+https://www.py4e.com/book
+
 Programming Python, 4th Edition by Mark Lutz ($)
 
 http://shop.oreilly.com/product/9780596158118.do
