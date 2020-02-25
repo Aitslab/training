@@ -169,6 +169,10 @@ CS221 Artificial Intelligence course from Stanford
 
 https://stanford-cs221.github.io/autumn2019/
 
+CS230 Deep Learning course from Stanford
+
+https://cs230.stanford.edu/
+
 Fast.ai courses
 
 www.fast.ai
