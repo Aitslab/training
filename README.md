@@ -336,6 +336,10 @@ Natural Language Processing with PyTorch by Brian McMahan, Delip Rao ($)
 
 https://www.oreilly.com/library/view/natural-language-processing/9781491978221/
 
+Data and Text Processing for Health and Life Sciences by Francisco M. Couto
+
+http://labs.rd.ciencias.ulisboa.pt/book/
+
 
 ### Blogs
 
