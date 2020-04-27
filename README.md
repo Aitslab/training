@@ -394,3 +394,10 @@ https://jvns.ca/blog/2017/04/17/statistics-for-programmers/
 ## Practice datasets
 https://scikit-learn.org/stable/datasets/
 
+
+## Interesting talks
+
+Multi-Task Learning in the Wilderness, Andrej Karpathy, Jun 15, 2019, ICML
+
+https://slideslive.com/38917690/multitask-learning-in-the-wilderness
+
