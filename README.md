@@ -216,6 +216,12 @@ Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig ($
 
 http://aima.cs.berkeley.edu/
 
+Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow by Aurélien Géron ($)
+
+https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
+
+Notebooks for book exercises: https://github.com/ageron/handson-ml2
+
 
 Reinforcement Learning, An Introduction by R. Sutton & A.G. Barto
 
