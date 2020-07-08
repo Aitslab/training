@@ -406,6 +406,11 @@ https://jvns.ca/blog/2017/04/17/statistics-for-programmers/
 ## Practice datasets
 https://scikit-learn.org/stable/datasets/
 
+## Ethics
+EU Ethics Guidelines for Trustworthy AI
+
+https://ec.europa.eu/futurium/en/ai-alliance-consultation/guidelines#Top
+
 
 ## Interesting talks
 
@@ -413,3 +418,6 @@ Multi-Task Learning in the Wilderness, Andrej Karpathy, Jun 15, 2019, ICML
 
 https://slideslive.com/38917690/multitask-learning-in-the-wilderness
 
+Trustworthy Human-Centric AI, Fredrik Heintz, 2020, Lund University
+
+http://ai.lu.se/tv/trustworthy-human-centric-ai/
