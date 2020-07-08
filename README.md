@@ -421,3 +421,7 @@ https://slideslive.com/38917690/multitask-learning-in-the-wilderness
 Trustworthy Human-Centric AI, Fredrik Heintz, 2020, Lund University
 
 http://ai.lu.se/tv/trustworthy-human-centric-ai/
+
+A conversation about AI risk and AI ethics in the age of covid-19, Jaan Tallinn and Olle Häggström
+ 
+https://www.chalmers.se/en/centres/chair/news/Pages/webinar-19May2020.aspx
