@@ -203,6 +203,10 @@ Deep RL Bootcamp (2017)
 
 https://sites.google.com/view/deep-rl-bootcamp/lectures
 
+Full Stack Deep Learning Bootcamp
+
+https://course.fullstackdeeplearning.com/
+
 ### Books
 Machine learning book by Hal Daumé III
 
