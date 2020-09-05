@@ -179,6 +179,17 @@ CS230 Deep Learning course from Stanford
 
 https://cs230.stanford.edu/
 
+CS188 Introduction to Artificial Intelligence from Berkeley
+
+https://inst.eecs.berkeley.edu/~cs188/fa20/
+
+https://inst.eecs.berkeley.edu/~cs188/fa18/
+
+CS294-158-SP20 Deep Unsupervised Learning from Berkeley
+
+https://sites.google.com/view/berkeley-cs294-158-sp20/home
+
+
 Fast.ai courses
 
 www.fast.ai
@@ -188,6 +199,9 @@ Material from Andreas Mueller's courses
 
 https://github.com/amueller
 
+Deep RL Bootcamp (2017)
+
+https://sites.google.com/view/deep-rl-bootcamp/lectures
 
 ### Books
 Machine learning book by Hal Daumé III
@@ -281,7 +295,9 @@ https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
 http://cs231n.github.io/
 
+Deep Learning for Computer Vision
 
+https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r
 ### Books
 
 Computer Vision: Algorithms and Applications by Richard Szeliski
