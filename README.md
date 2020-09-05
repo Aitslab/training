@@ -3,7 +3,7 @@ Training materials related to data science and artificial intelligence. Resource
 You can find links to organizations which provide physical courses (in physicalcourses.md) and links to data sources (in datasources.md). Distance courses by Swedish universities which require official registration are listed in SwedishUniDistanceCourses.md.
 
 
-## General
+## General and programming basics
 Anaconda installation
 
 https://www.datacamp.com/community/tutorials/installing-anaconda-windows
@@ -299,7 +299,9 @@ https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
 http://cs231n.github.io/
 
-Deep Learning for Computer Vision
+Deep Learning for Computer Vision from University of Michigan
+
+https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/
 
 https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r
 ### Books
