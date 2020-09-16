@@ -212,6 +212,10 @@ Material from Andreas Mueller's courses
 
 https://github.com/amueller
 
+MIT Deep Learning and Artificial Intelligence Lectures
+
+https://deeplearning.mit.edu/
+
 Deep RL Bootcamp (2017)
 
 https://sites.google.com/view/deep-rl-bootcamp/lectures
