@@ -121,6 +121,10 @@ Python Data Science Hanbook by Jake VanderPlas
 https://github.com/jakevdp/PythonDataScienceHandbook
 
 
+Scientific Computing with Python 3 by Claus Führer, Jan Erik Solem, Olivier Verdier ($)
+
+https://www.oreilly.com/library/view/scientific-computing-with/9781786463517/
+
 ### Other resources
 List of Python learning resources 
 
