@@ -19,6 +19,10 @@ Markdown basics
 https://guides.github.com/features/mastering-markdown/
 
 
+Google Colab
+
+https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/colab.html
+
 Software engineering best practices
 
 https://www.pythonlikeyoumeanit.com/Module5_OddsAndEnds/Writing_Good_Code.html
@@ -193,6 +197,11 @@ CS294-158-SP20 Deep Unsupervised Learning from Berkeley
 
 https://sites.google.com/view/berkeley-cs294-158-sp20/home
 
+Machine Learning course from VU University in Amsterdam
+
+https://mlvu.github.io/
+
+https://www.youtube.com/watch?v=-pve3oIvxa8&index=1&list=PLCof9EqayQgupldnTvqNy_BThTcME5r93
 
 Fast.ai courses
 
@@ -268,6 +277,14 @@ https://www.deeplearning.ai/machine-learning-yearning/
  
  
 ### Other resources
+colah's blog
+
+http://colah.github.io/
+
+Andrej Karpathy's blog
+- Recipe for training neural networks http://karpathy.github.io/2019/04/25/recipe/
+- The Unreasonable Effectiveness of Recurrent Neural Networks http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
 NIPS 2016 Tutorial: Generative Adversarial Networks by Ian Goodfellow
 
 https://arxiv.org/abs/1701.00160
@@ -303,7 +320,9 @@ https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
 http://cs231n.github.io/
 
-Deep Learning for Computer Vision from University of Michigan
+- Image classification: https://cs231n.github.io/classification/
+
+EECS 498-007 / 598-005: Deep Learning for Computer Vision from University of Michigan
 
 https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/
 
@@ -321,6 +340,23 @@ Computer Vision - A Modern Approach by  David A. Forsyth and Jean Ponce ($)
 ### Other resources
 
 https://github.com/jbhuang0604/awesome-computer-vision
+
+https://distill.pub/2017/feature-visualization/
+
+https://distill.pub/2018/building-blocks/
+
+https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
+
+https://github.com/jcjohnson/neural-style
+
+### Key articles
+AlexNet https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+
+VGG https://arxiv.org/pdf/1409.1556.pdf
+
+GoogLeNet https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43022.pdf
+
+ResNet https://arxiv.org/pdf/1512.03385.pdf
 
 ## NLP
 ### Courses 
@@ -384,6 +420,10 @@ http://labs.rd.ciencias.ulisboa.pt/book/
 https://ruder.io/
 
 https://jalammar.github.io/
+
+- The Illustrated Transformer http://jalammar.github.io/illustrated-transformer/
+
+Peter Bloem Transformers from Scratch http://peterbloem.nl/blog/transformers
 
 http://www.abigailsee.com/
 
@@ -451,3 +491,7 @@ http://ai.lu.se/tv/trustworthy-human-centric-ai/
 A conversation about AI risk and AI ethics in the age of covid-19, Jaan Tallinn and Olle Häggström
  
 https://www.chalmers.se/en/centres/chair/news/Pages/webinar-19May2020.aspx
+
+
+
+
