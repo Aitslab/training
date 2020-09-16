@@ -280,14 +280,25 @@ by Andrew Ng
 https://www.deeplearning.ai/machine-learning-yearning/
  
  
-### Other resources
+### Blogs
 colah's blog
 
 http://colah.github.io/
 
+- Understanding LSTMs http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 Andrej Karpathy's blog
 - Recipe for training neural networks http://karpathy.github.io/2019/04/25/recipe/
 - The Unreasonable Effectiveness of Recurrent Neural Networks http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+- Deep Reinforcement Learning: Pong from Pixels http://karpathy.github.io/2016/05/31/rl/
+
+Towards Data Science
+
+https://towardsdatascience.com/
+
+https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf
+
+### Other resources
 
 NIPS 2016 Tutorial: Generative Adversarial Networks by Ian Goodfellow
 
