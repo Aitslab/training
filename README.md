@@ -224,6 +224,13 @@ Full Stack Deep Learning Bootcamp
 
 https://course.fullstackdeeplearning.com/
 
+### Less technical courses
+
+https://www.elementsofai.com/
+
+https://app.ai-cursus.nl/home
+
+
 ### Books
 Machine learning book by Hal Daumé III
 
