@@ -329,7 +329,8 @@ Reports on business and societal impact of AI by PWC
 
 https://www.pwc.com/gx/en/issues/data-and-analytics/artificial-intelligence.html
 
-
+### Key articles
+Backpropagation https://www.nature.com/articles/323533a0
 
 
 ## Computer vision
@@ -372,6 +373,9 @@ https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
 https://github.com/jcjohnson/neural-style
 
 ### Key articles
+
+Backpropagation Applied to Handwritten Zip Code Recognition (LeNet) https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwibzejJ2_7rAhUKyoUKHfrkBqIQFjABegQIAhAB&url=http%3A%2F%2Fyann.lecun.com%2Fexdb%2Fpublis%2Fpdf%2Flecun-89e.pdf&usg=AOvVaw1V9weNdZgg_6oEcKcWmdXk
+
 AlexNet https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 
 VGG https://arxiv.org/pdf/1409.1556.pdf
