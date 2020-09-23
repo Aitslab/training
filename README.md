@@ -8,6 +8,8 @@ Anaconda installation
 
 https://www.datacamp.com/community/tutorials/installing-anaconda-windows
 
+- Setting up tensorflow environment https://www.anaconda.com/blog/tensorflow-in-anaconda
+
 
 Jupyter notebooks
 
@@ -35,11 +37,19 @@ https://blog.slavv.com/picking-a-gpu-for-deep-learning-3d4795c273b9
 
 https://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/
 
+### Books
+How to think like a data scientist 
+
+https://runestone.academy/runestone/books/published/httlads/index.html
+
 ### Book collections
 Scientific book collection by Springer, many machine learning books included
 
 https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
 
+Runestone Interactive
+
+https://runestoneinteractive.org/pages/library.html
 
 ### Courses
 Data8 The Foundations of Data Science course
@@ -56,6 +66,8 @@ Official Python documentation
 
 https://docs.python.org/3.7/
 
+- Tutorial https://docs.python.org/3/tutorial/
+
 ipython
 
 http://ipython.org/
@@ -64,6 +76,7 @@ numpy
 
 http://www.numpy.org/
 
+- Tutorial https://numpy.org/doc/stable/user/quickstart.html
 
 pandas
 
@@ -128,6 +141,14 @@ https://github.com/jakevdp/PythonDataScienceHandbook
 Scientific Computing with Python 3 by Claus Führer, Jan Erik Solem, Olivier Verdier ($)
 
 https://www.oreilly.com/library/view/scientific-computing-with/9781786463517/
+
+How to think like a computer scientist
+
+https://runestone.academy/runestone/books/published/thinkcspy/index.html
+
+Foundations of Python Programming
+
+https://runestone.academy/runestone/books/published/fopp/index.html
 
 ### Other resources
 List of Python learning resources 
