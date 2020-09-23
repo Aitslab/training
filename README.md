@@ -332,6 +332,9 @@ https://www.pwc.com/gx/en/issues/data-and-analytics/artificial-intelligence.html
 ### Key articles
 Backpropagation https://www.nature.com/articles/323533a0
 
+A Fast Learning Algorithm for Deep Belief Nets https://doi.org/10.1162/neco.2006.18.7.1527
+
+Greedy layer-wise training of deep networks http://papers.nips.cc/paper/3048-greedy-layer-wise-training-of-deep-networks.pdf
 
 ## Computer vision
 ### Courses 
