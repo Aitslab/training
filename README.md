@@ -482,7 +482,7 @@ Lars Juhl Jensen slideshare
 
 https://www.slideshare.net/larsjuhljensen
 
-### Key papers
+### Key articles
 
 LSTM http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf
 
