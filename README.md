@@ -68,6 +68,8 @@ https://docs.python.org/3.7/
 
 - Tutorial https://docs.python.org/3/tutorial/
 
+- Tutorial https://github.com/kuleshov/teaching-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb
+
 ipython
 
 http://ipython.org/
@@ -77,6 +79,8 @@ numpy
 http://www.numpy.org/
 
 - Tutorial https://numpy.org/doc/stable/user/quickstart.html
+
+- Tutorial https://cs231n.github.io/python-numpy-tutorial/
 
 pandas
 
