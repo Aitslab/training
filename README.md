@@ -422,11 +422,22 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 
 Fast.ai NLP course
 
-https://www.fast.ai/2019/07/08/fastai-nlp/
+https://github.com/fastai/course-nlp
+
+https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9
 
 Natural Language Processing from Coursera
 
 https://www.coursera.org/learn/language-processing
+
+Natural Language Processing from Berkeley
+
+https://people.ischool.berkeley.edu/~dbamman/nlp20.html
+
+Applied Natural Language Processing from Berkeley
+
+https://people.ischool.berkeley.edu/~dbamman/info256.html
+
 
 Applied Text Mining in Python from Univ. of Michigan/Coursera
 
