@@ -82,6 +82,8 @@ http://www.numpy.org/
 
 - Tutorial https://cs231n.github.io/python-numpy-tutorial/
 
+- saving numpy tutorial https://machinelearningmastery.com/how-to-save-a-numpy-array-to-file-for-machine-learning/
+
 pandas
 
 http://pandas.pydata.org/
