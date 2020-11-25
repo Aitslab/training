@@ -483,12 +483,15 @@ http://labs.rd.ciencias.ulisboa.pt/book/
 
 
 ### Blogs
+Introduction to Natural Language Processing for Text https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63
 
 https://ruder.io/
 
 https://jalammar.github.io/
 
 - The Illustrated Transformer http://jalammar.github.io/illustrated-transformer/
+
+- The Illustrated BERT, ELMO and co http://jalammar.github.io/illustrated-bert/
 
 Peter Bloem Transformers from Scratch http://peterbloem.nl/blog/transformers
 
