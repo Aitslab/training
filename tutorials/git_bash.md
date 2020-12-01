@@ -18,3 +18,7 @@
 3. type sh filename
 
 
+### Using Python in shell
+to be able to use python from git bash it has to be added to the path, see here: https://www.datacamp.com/community/tutorials/installing-anaconda-windows
+
+
