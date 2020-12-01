@@ -18,7 +18,10 @@
 3. type sh filename
 
 
-### Using Python in Git Bash
-to be able to use python from git bash it has to be added to the path, see here: https://www.datacamp.com/community/tutorials/installing-anaconda-windows
+### Using Python and conda in Git Bash
+to be able to use python and conda from git bash it has to be added to the path, see here: https://www.datacamp.com/community/tutorials/installing-anaconda-windows
+
+### Activate conda environment in Git Bash
+navigate to Scripts folder of the environment folder, e.g. C:\Users\Sonja\Anaconda3\envs\flair\Scripts, then type . activate environmentname
 
 
