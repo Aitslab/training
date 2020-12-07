@@ -61,6 +61,14 @@ http://data8.org/
 https://jvns.ca/
 
 
+## FAIR principles and reproducibility
+
+### Courses
+
+https://nbis-reproducible-research.readthedocs.io/en/latest/
+
+https://github.com/IFB-ElixirFr/IFB-FAIR-bioinfo-training
+
 ## Python
 Official Python documentation
 
@@ -535,6 +543,11 @@ LSTM http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&
 Codecademy SQL course
 https://www.codecademy.com/learn/learn-sql
 
+
+## Bioinformatics
+Elixir training
+
+https://tess.elixir-europe.org/
 
 ## Mathematics
 List of statistics resources
