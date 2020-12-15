@@ -1,5 +1,5 @@
 # Training resources
-Training materials related to data science and artificial intelligence. Resources which are not available for free are marked ($).
+Training materials related to data science, artificial intelligence and bioinformatics. Resources which are not available for free are marked ($).
 You can find links to organizations which provide physical courses (in physicalcourses.md) and links to data sources (in datasources.md). Distance courses by Swedish universities which require official registration are listed in SwedishUniDistanceCourses.md.
 
 
@@ -548,6 +548,10 @@ https://www.codecademy.com/learn/learn-sql
 Elixir training
 
 https://tess.elixir-europe.org/
+
+NBIS course on single-cell RNASeq
+
+https://nbisweden.github.io/workshop-scRNAseq/
 
 ## Mathematics
 List of statistics resources
