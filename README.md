@@ -291,6 +291,8 @@ https://www.codecademy.com/learn/learn-r
 
 https://docs.python.org/3.6/library/re.html
 
+https://docs.python.org/3/howto/regex.html
+
 https://www.youtube.com/watch?v=DRR9fOXkfRE&feature=youtu.be
 
 https://regexr.com/
