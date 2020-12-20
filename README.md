@@ -92,6 +92,8 @@ https://harvard-iacs.github.io/2018-CS109B/
 
 https://jvns.ca/
 
+https://www.analyticsvidhya.com/blog/
+
 
 ## FAIR principles and reproducibility
 
