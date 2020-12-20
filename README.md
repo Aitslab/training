@@ -25,7 +25,7 @@ Here is a suggested learning path for getting started in data science. Resources
 
 
 
-## General and programming basics
+## General data science and programming basics
 Anaconda installation
 
 https://www.datacamp.com/community/tutorials/installing-anaconda-windows
@@ -87,12 +87,22 @@ CS109B: Advanced Topics in Data Science from Harvard
 https://harvard-iacs.github.io/2018-CS109B/
 
 
-
-### Tech blogs
+### Blogs
 
 https://jvns.ca/
 
 https://www.analyticsvidhya.com/blog/
+
+http://jakevdp.github.io/
+
+### Podcasts
+
+https://dataskeptic.com/
+
+### Other resources
+Stackoverflow forum
+
+https://stackoverflow.com/
 
 
 ## FAIR principles and reproducibility
