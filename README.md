@@ -165,7 +165,9 @@ scikit-learn
 https://scikit-learn.org/
 
 
+scikit-image
 
+https://scikit-image.org/
 
 ### Courses
 
