@@ -317,6 +317,10 @@ CS294-158-SP20 Deep Unsupervised Learning from Berkeley
 
 https://sites.google.com/view/berkeley-cs294-158-sp20/home
 
+CSC321 Neural Networks and Machine Learning from University of Toronto
+
+https://www.cs.toronto.edu/~lczhang/321/index.html
+
 Machine Learning course from VU University in Amsterdam
 
 https://mlvu.github.io/
