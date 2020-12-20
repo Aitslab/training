@@ -3,6 +3,28 @@ Training materials related to data science, artificial intelligence and bioinfor
 You can find links to organizations which provide physical courses (in physicalcourses.md) and links to data sources (in datasources.md). Distance courses by Swedish universities which require official registration are listed in SwedishUniDistanceCourses.md.
 
 
+Here is a suggested learning path for getting started in data science. Resources are below:
+
+1. Install Anaconda and get familiar with its main functions and jupyter notebooks. Alternatively, if your own computer is limited, get familiar with Google colab.
+
+2. Learn Python basics
+
+3. Get familiar with the main functions of python tools needed for data processing and scientific computing: regular expressions, numpy, pandas
+
+4. Get familiar with the basics of data visualization: matplotlib
+
+5. Get a conceptual understanding of the core principles of machine learning and deep learning
+
+6. Get a basic understanding of the main machine learning libraries: pytorch, keras
+
+7. Familiarize yourself with the concepts and tools of data science reproducibility: git, FAIR principles
+
+8. Familiarize yourself with the main concepts and tools in your main area of interest, e.g. image analysis, nlp
+
+9. Try solving specific tasks you are interested in, e.g. from your research project or daily life, using machine learning, and just continue learning the things that are required to solve these tasks.
+
+
+
 ## General and programming basics
 Anaconda installation
 
@@ -56,6 +78,16 @@ Data8 The Foundations of Data Science course
 
 http://data8.org/
 
+CS109A: Introduction to Data Science
+
+https://harvard-iacs.github.io/2018-CS109A/
+
+CS109B: Advanced Topics in Data Science from Harvard
+
+https://harvard-iacs.github.io/2018-CS109B/
+
+
+
 ### Tech blogs
 
 https://jvns.ca/
@@ -81,6 +113,10 @@ https://docs.python.org/3.7/
 ipython
 
 http://ipython.org/
+
+scipy
+
+https://scipy.org/
 
 numpy
 
@@ -119,6 +155,14 @@ https://www.edx.org/bio/charles-severance
 Codecademy Python course
 
 https://www.codecademy.com/learn/learn-python
+
+Analytics Vidhya Python course
+
+https://courses.analyticsvidhya.com/courses/introduction-to-data-science
+
+Google's Python class
+
+https://developers.google.com/edu/python/
 
 Dataquest Data Analyst path (some free, some $)
 
@@ -164,6 +208,11 @@ Foundations of Python Programming
 
 https://runestone.academy/runestone/books/published/fopp/index.html
 
+### Exercises
+CS109 Homework 1. Exploratory Data Analysis
+
+https://nbviewer.jupyter.org/github/cs109/2014/blob/master/homework/HW1.ipynb
+
 ### Other resources
 List of Python learning resources 
 
@@ -173,9 +222,25 @@ Python NumPy tutorial
 
 http://cs231n.github.io/python-numpy-tutorial/
 
-Official Pytorch tutorial
+Scipy tutorial
 
-https://pytorch.org/tutorials/beginner/nn_tutorial.html
+https://docs.scipy.org/doc/scipy/reference/tutorial/
+
+Matplotlib tutorial
+
+https://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
+
+Pandas tutorials
+
+https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
+
+http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
+
+https://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/
+
+https://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/
+
+https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html
 
 Lectures notes on Python
 
@@ -205,6 +270,10 @@ https://regexr.com/
 https://regexone.com/
 
 https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/
+
+https://developers.google.com/edu/python/regular-expressions
+
+https://www.debuggex.com/cheatsheet/regex/python
 
 ## AI & Machine Learning & Deep Learning
 ### Courses
@@ -264,6 +333,13 @@ https://course.fullstackdeeplearning.com/
 https://www.elementsofai.com/
 
 https://app.ai-cursus.nl/home
+
+
+### Tutorials for major libraries
+
+Official Pytorch tutorial
+
+https://pytorch.org/tutorials/beginner/nn_tutorial.html
 
 
 ### Books
@@ -510,6 +586,8 @@ https://medium.com/@joycex99
 https://smerity.com/articles/articles.html
 
 https://towardsdatascience.com/evaluating-text-output-in-nlp-bleu-at-your-own-risk-e8609665a213
+
+Steps for effective text data cleaning (with case study using Python) https://www.analyticsvidhya.com/blog/2014/11/text-data-cleaning-steps-python/
 
 ### Other resources
 SciSpacy
