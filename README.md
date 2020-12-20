@@ -126,6 +126,14 @@ https://docs.python.org/3.7/
 
 - Tutorial https://github.com/kuleshov/teaching-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb
 
+PEP8 python style guide
+
+https://www.python.org/dev/peps/pep-0008/#tabs-or-spaces
+
+Google Python style guide
+
+https://google.github.io/styleguide/pyguide.html
+
 ipython
 
 http://ipython.org/
