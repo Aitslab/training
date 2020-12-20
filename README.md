@@ -190,6 +190,10 @@ Python for Everybody: Exploring Data In Python 3 by Charles Severance
 
 https://www.py4e.com/book
 
+Learn Python the Hard Way by Zed Shaw
+
+https://learnpythonthehardway.org/python3/
+
 Programming Python, 4th Edition by Mark Lutz ($)
 
 http://shop.oreilly.com/product/9780596158118.do
