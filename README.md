@@ -64,6 +64,10 @@ How to think like a data scientist
 
 https://runestone.academy/runestone/books/published/httlads/index.html
 
+An Introduction to Statistical Learning by James, Witten, Hastie, Tibshirani
+
+http://statlearning.com/
+
 ### Book collections
 Scientific book collection by Springer, many machine learning books included
 
