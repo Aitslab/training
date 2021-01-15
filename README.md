@@ -190,6 +190,14 @@ Google's Python class
 
 https://developers.google.com/edu/python/
 
+Google's Python Crash Course on Course
+
+https://www.coursera.org/learn/python-crash-course
+
+Corey Schaefer's Python Programming Beginner Tutorials
+
+https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7
+
 Dataquest Data Analyst path (some free, some $)
 
 https://www.dataquest.io/path/data-analyst/
