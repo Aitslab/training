@@ -8,8 +8,16 @@ https://www.kaggle.com/datasets
 
 
 
-Data from medicine/life sciences
+# Data from medicine/life sciences
 
 https://idr.openmicroscopy.org/
 
 https://www.ebi.ac.uk/bioimage-archive/
+
+
+
+# Benchmark datasets
+## General NLP
+https://gluebenchmark.com/
+
+https://super.gluebenchmark.com/
