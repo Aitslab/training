@@ -3,7 +3,7 @@ Google colab is a free tool to run code in the cloud. It is a good option if you
 ### Here is a step by step guide on how to get started with colab:
 
 1. Create a google account and login
-2. To open an existing notebook, click on the link that points to it. When you enter the notebook for the first time, click “copy to drive”. That way, you can write and run your own code! Alternatively, you can place a notebook file in your Google drive and open it by selecting Open With > Google Colaboratory. 
+2. To open an existing notebook, click on the link that points to it. When you enter the notebook for the first time, click “copy to drive”. That way, you can write and run your own code and save it! Alternatively, you can place a notebook file in your Google drive and open it by selecting Open With > Google Colaboratory. 
 3. To set up a new notebook, go to https://colab.research.google.com/ and choose "NEW NOTEBOOK" in the bottom. This notebook is then stored in your google drive.
 4. In the notebook, you can add new text or code sections ("cells") by clicking on the buttons "+ Code" or "+Text" in the toolbar
 5. To run a cell click on the arrow next to it.
