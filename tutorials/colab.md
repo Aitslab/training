@@ -7,6 +7,7 @@ Google colab is a free tool to run code in the cloud. It is a good option if you
 3. To set up a new notebook, go to https://colab.research.google.com/ and choose "NEW NOTEBOOK" in the bottom. This notebook is then stored in your google drive.
 4. In the notebook, you can add new text or code sections ("cells") by clicking on the buttons "+ Code" or "+Text" in the toolbar
 5. To run a cell click on the arrow next to it.
+6. To share a notebook with someone, click on the "share" button in the top right and send the link to the person you want to share it with.
 
 
 
