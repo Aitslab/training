@@ -1,11 +1,12 @@
-Google colab is a free tool to run code in the cloud. It is a good option if you do not want to run the code on your own computer. It is based on they Jupyter notebook environment and can run Jupyter notebooks (files with a ipynb extension). 
+Google colab is a free tool to run code in the cloud. It is a good option if you do not want to run the code on your own computer. Colab is based on the Jupyter notebook platform (https://jupyter.org/) and can run Jupyter notebooks (files with a ipynb extension). 
 
 ### Here is a step by step guide on how to get started with colab:
 
 1. Create a google account and login
-2. To open an existing notebook, click on the link that was sent to you. Alternatively, you can place a notebook in your Google drive and open it by selecting Open With > Google Colaboratory.
-3. You can add new text or code sections ("cells") by clicking on the buttons "+ Code" or "+Text" in the toolbar
-4. To run a cell click on the arrow. 
+2. To open an existing notebook, click on the link that was sent to you. Alternatively, you can place a notebook in your Google drive and open it by selecting Open With > Google Colaboratory. 
+3. To set up a new notebook, go to https://colab.research.google.com/ and choose "NEW NOTEBOOK" in the bottom. This notebook is then stored in your google drive.
+4. In the notebook, you can add new text or code sections ("cells") by clicking on the buttons "+ Code" or "+Text" in the toolbar
+5. To run a cell click on the arrow next to it.
 
 
 
