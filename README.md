@@ -680,6 +680,10 @@ List of statistics resources
 
 https://jvns.ca/blog/2017/04/17/statistics-for-programmers/
 
+Immersive Maths (interactive linear algebra book)
+
+http://immersivemath.com
+
 ## Practice datasets
 https://scikit-learn.org/stable/datasets/
 
