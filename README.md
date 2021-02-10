@@ -460,6 +460,12 @@ https://towardsdatascience.com/
 
 https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf
 
+Overview over activation functions:
+
+https://www.analyticsvidhya.com/blog/2020/01/fundamentals-deep-learning-activation-functions-when-to-use-them/
+
+https://medium.com/@snaily16/what-why-and-which-activation-functions-b2bf748c0441
+
 ### Other resources
 
 NIPS 2016 Tutorial: Generative Adversarial Networks by Ian Goodfellow
