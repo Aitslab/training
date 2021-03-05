@@ -111,11 +111,19 @@ https://stackoverflow.com/
 
 ## FAIR principles and reproducibility
 
-### Courses
+### General resources
 
 https://nbis-reproducible-research.readthedocs.io/en/latest/
 
 https://github.com/IFB-ElixirFr/IFB-FAIR-bioinfo-training
+
+https://the-turing-way.netlify.app/welcome.html
+
+### Version control and Git
+
+https://try.github.io/
+
+https://the-turing-way.netlify.app/reproducible-research/vcs.html#rr-vcs
 
 ## Python
 Official Python documentation
