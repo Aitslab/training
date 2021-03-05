@@ -292,6 +292,9 @@ Peter Norvig's python training examples
 
 https://github.com/norvig/pytudes#pytudes-index-of-jupyter-ipython-notebooks
 
+## julia
+https://julialang.org/
+
 ## R
 ### Courses
 https://www.codecademy.com/learn/learn-r
