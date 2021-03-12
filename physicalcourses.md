@@ -11,6 +11,12 @@ http://ai.lu.se/education/
 
 http://sese.nu/
 
-https://nbis.se/training/
+https://www.nbis.se/events/
 
-https://docs.snic.se/wiki/Training
+http://docs.snic.se/wiki/Training
+
+https://www.pdc.kth.se/about/events/training
+
+# Courses outside Sweden
+
+https://tess.elixir-europe.org/events
