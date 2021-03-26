@@ -125,6 +125,8 @@ https://try.github.io/
 
 https://the-turing-way.netlify.app/reproducible-research/vcs.html#rr-vcs
 
+https://swcarpentry.github.io/git-novice/
+
 ## Python
 Official Python documentation
 
