@@ -673,6 +673,10 @@ https://chrisalbon.com/python/basics/cleaning_text/
 
 http://rjweiss.github.io/text-iriss2013/
 
+Tutorial about coreference resolution with neuralcoref
+
+https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30
+
 Lars Juhl Jensen slideshare
 
 https://www.slideshare.net/larsjuhljensen
