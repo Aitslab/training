@@ -503,6 +503,10 @@ Reports on business and societal impact of AI by PWC
 
 https://www.pwc.com/gx/en/issues/data-and-analytics/artificial-intelligence.html
 
+Grad-Cam tutorial
+
+https://www.pyimagesearch.com/2020/03/09/grad-cam-visualize-class-activation-maps-with-keras-tensorflow-and-deep-learning/
+
 ### Key articles
 Backpropagation https://www.nature.com/articles/323533a0
 
