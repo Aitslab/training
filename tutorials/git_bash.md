@@ -1,3 +1,6 @@
+### Installing git
+Download the suitable version from https://git-scm.com/download/
+
 ### Downloading a repo from github
 
 1. open Git Bash
