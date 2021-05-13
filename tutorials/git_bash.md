@@ -5,7 +5,7 @@ Set your user name in git: https://docs.github.com/en/github/getting-started-wit
 
 Find your github private email address (under settings > Emails > Keep my email addresses private and set it up as your commit email in git: https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address
 
-Set up SSH access: https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
+Set up SSH access: https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh. If you get an error when trying to add the SSH key, try launching the SSH agent like this instead: eval $(ssh-agent)
 
 ### Downloading a repo from github
 
