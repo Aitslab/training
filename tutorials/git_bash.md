@@ -1,5 +1,11 @@
 ### Installing git
-Download the suitable version from https://git-scm.com/download/
+Install the suitable version from https://git-scm.com/download/.
+
+Set your user name in git: https://docs.github.com/en/github/getting-started-with-github/setting-your-username-in-git
+
+Find your github private email address (under settings > Emails > Keep my email addresses private and set it up as your commit email in git: https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address
+
+Set up SSH access: https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
 
 ### Downloading a repo from github
 
