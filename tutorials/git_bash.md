@@ -1,5 +1,5 @@
 ### Installing git
-Install the suitable version from https://git-scm.com/download/.
+Install the suitable version from https://git-scm.com/download/ and follow the installation instructions here: https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-git, https://www.earthdatascience.org/workshops/setup-earth-analytics-python/setup-git-bash-conda/
 
 Set your user name in git: https://docs.github.com/en/github/getting-started-with-github/setting-your-username-in-git
 
