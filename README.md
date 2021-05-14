@@ -681,6 +681,10 @@ Tutorial about coreference resolution with neuralcoref
 
 https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30
 
+Tutorial for spacy
+
+https://colab.research.google.com/github/DerwenAI/spaCy_tuTorial/blob/master/spaCy_tuTorial.ipynb#scrollTo=vGVwIzTJJjDR
+
 Lars Juhl Jensen slideshare
 
 https://www.slideshare.net/larsjuhljensen
