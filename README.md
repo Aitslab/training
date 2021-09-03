@@ -717,6 +717,19 @@ Immersive Maths (interactive linear algebra book)
 
 http://immersivemath.com
 
+### Books
+Mathematics for Machine Learning
+
+https://mml-book.github.io/
+
+Applied Math and Machine Learning Basics chapter in Deep Learning book
+
+https://www.deeplearningbook.org/contents/part_basics.html
+
+Mathematical Methods for Physics and Engineering by Riley, Hobson, Bence
+
+https://www.cambridge.org/se/academic/subjects/physics/mathematical-methods/mathematical-methods-physics-and-engineering-comprehensive-guide-3rd-edition?format=PB&isbn=9780521679718
+
 ## Practice datasets
 https://scikit-learn.org/stable/datasets/
 
