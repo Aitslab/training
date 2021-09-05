@@ -9,7 +9,9 @@ enable Windows Subsytem for Linux:
 -   download linux kernel update package: https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi and double click to run
 -   open powershell and run wsl --set-default-version 2
 
-open microsoft store and select linux distribution of choice, select get
+double click docker installation file; when prompted, ensure the Enable Install required Windows components for WSL 2 option is selected on the Configuration page.
 
-see more here
+If your admin account is different to your user account, you must add the user to the docker-users group. Run Computer Management as an administrator and navigate to Local Users and Groups > Groups > docker-users. Right-click to add the user to the group. Log out and log back in for the changes to take effect.
+
+see more info here: https://docs.docker.com/desktop/windows/install/
 
