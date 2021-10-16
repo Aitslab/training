@@ -717,6 +717,11 @@ Immersive Maths (interactive linear algebra book)
 
 http://immersivemath.com
 
+### Courses
+Computational Linear Algebra for Coders by Fast.ai
+
+https://github.com/fastai/numerical-linear-algebra/
+
 ### Books
 Mathematics for Machine Learning
 
