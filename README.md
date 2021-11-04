@@ -685,6 +685,10 @@ Tutorial for spacy
 
 https://colab.research.google.com/github/DerwenAI/spaCy_tuTorial/blob/master/spaCy_tuTorial.ipynb#scrollTo=vGVwIzTJJjDR
 
+Tutorial for Huggingface Tokenization
+
+https://colab.research.google.com/github/huggingface/notebooks/blob/master/examples/token_classification.ipynb#scrollTo=vc0BSBLIIrJQ
+
 Lars Juhl Jensen slideshare
 
 https://www.slideshare.net/larsjuhljensen
