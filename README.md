@@ -467,6 +467,16 @@ Andrej Karpathy's blog
 - The Unreasonable Effectiveness of Recurrent Neural Networks http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 - Deep Reinforcement Learning: Pong from Pixels http://karpathy.github.io/2016/05/31/rl/
 
+Joyce Xu's blog
+
+https://medium.com/@joycex99
+
+Jay Alammar's Blog and youtube channel
+
+https://jalammar.github.io/
+
+https://www.youtube.com/channel/UCmOwsoHty5PrmE-3QhUBfPQ
+
 Towards Data Science
 
 https://towardsdatascience.com/
@@ -638,9 +648,11 @@ http://labs.rd.ciencias.ulisboa.pt/book/
 ### Blogs
 Introduction to Natural Language Processing for Text https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63
 
+Sebastian Ruder's blog
+
 https://ruder.io/
 
-https://jalammar.github.io/
+NLP posts on Jay Alammar's blog (https://jalammar.github.io/)
 
 - The Illustrated Transformer http://jalammar.github.io/illustrated-transformer/
 
@@ -650,11 +662,7 @@ Peter Bloem Transformers from Scratch http://peterbloem.nl/blog/transformers
 
 http://www.abigailsee.com/
 
-https://medium.com/@joycex99
-
-https://smerity.com/articles/articles.html
-
-https://towardsdatascience.com/evaluating-text-output-in-nlp-bleu-at-your-own-risk-e8609665a213
+Evaluating Text Output in NLP: BLEU at your own risk https://towardsdatascience.com/evaluating-text-output-in-nlp-bleu-at-your-own-risk-e8609665a213
 
 Steps for effective text data cleaning (with case study using Python) https://www.analyticsvidhya.com/blog/2014/11/text-data-cleaning-steps-python/
 
