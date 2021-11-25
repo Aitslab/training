@@ -524,6 +524,10 @@ A Fast Learning Algorithm for Deep Belief Nets https://doi.org/10.1162/neco.2006
 
 Greedy layer-wise training of deep networks http://papers.nips.cc/paper/3048-greedy-layer-wise-training-of-deep-networks.pdf
 
+Sequence-to-sequence learning https://arxiv.org/abs/1409.3215
+
+
+
 ## Computer vision
 ### Courses 
 Computer vision course from Stanford
@@ -704,6 +708,30 @@ https://www.slideshare.net/larsjuhljensen
 ### Key articles
 
 LSTM http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf
+
+Google machine translation https://arxiv.org/abs/1609.08144
+
+Transformer https://arxiv.org/abs/1706.03762
+
+ULMFiT https://arxiv.org/abs/1801.06146
+
+BERT https://arxiv.org/abs/1810.04805
+
+T5 https://arxiv.org/abs/1910.10683
+
+Speech recognition https://arxiv.org/abs/1712.01769
+
+
+## Green computing and machine learning
+
+
+Carbon Emissions and Large Neural Network Training https://arxiv.org/abs/2104.10350
+
+GShard https://arxiv.org/abs/2006.16668
+
+Switch Transformers https://arxiv.org/abs/2101.03961
+
+https://blog.google/technology/ai/minimizing-carbon-footprint/
 
 ## SQL
 ### Courses 
