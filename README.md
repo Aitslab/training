@@ -368,6 +368,9 @@ Fast.ai courses
 
 www.fast.ai
 
+Google Machine Learning Crash Course
+
+https://developers.google.com/machine-learning/crash-course/
 
 Material from Andreas Mueller's courses
 
@@ -392,11 +395,15 @@ https://www.elementsofai.com/
 https://app.ai-cursus.nl/home
 
 
-### Tutorials for major libraries
+### Tutorials for major libraries and tools
 
 Official Pytorch tutorial
 
 https://pytorch.org/tutorials/beginner/nn_tutorial.html
+
+Tensorboard
+
+https://www.tensorflow.org/tensorboard
 
 
 ### Books
@@ -513,9 +520,7 @@ Reports on business and societal impact of AI by PWC
 
 https://www.pwc.com/gx/en/issues/data-and-analytics/artificial-intelligence.html
 
-Grad-Cam tutorial
 
-https://www.pyimagesearch.com/2020/03/09/grad-cam-visualize-class-activation-maps-with-keras-tensorflow-and-deep-learning/
 
 ### Key articles
 Backpropagation https://www.nature.com/articles/323533a0
@@ -526,7 +531,7 @@ Greedy layer-wise training of deep networks http://papers.nips.cc/paper/3048-gre
 
 Sequence-to-sequence learning https://arxiv.org/abs/1409.3215
 
-
+Federated learning https://ai.googleblog.com/2017/04/federated-learning-collaborative.html
 
 ## Computer vision
 ### Courses 
@@ -721,6 +726,18 @@ T5 https://arxiv.org/abs/1910.10683
 
 Speech recognition https://arxiv.org/abs/1712.01769
 
+
+## Explainability resources
+
+Grad-Cam tutorial
+
+https://www.pyimagesearch.com/2020/03/09/grad-cam-visualize-class-activation-maps-with-keras-tensorflow-and-deep-learning/
+
+https://www.tensorflow.org/tensorboard/what_if_tool
+
+https://www.tensorflow.org/responsible_ai/fairness_indicators/guide
+
+https://ai.googleblog.com/2021/08/a-dataset-exploration-case-study-with.html
 
 ## Green computing and machine learning
 
