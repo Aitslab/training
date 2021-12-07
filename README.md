@@ -739,9 +739,8 @@ https://www.tensorflow.org/responsible_ai/fairness_indicators/guide
 
 https://ai.googleblog.com/2021/08/a-dataset-exploration-case-study-with.html
 
-## Green computing and machine learning
-
-
+## AI and sustainability
+### Green computing
 Carbon Emissions and Large Neural Network Training https://arxiv.org/abs/2104.10350
 
 GShard https://arxiv.org/abs/2006.16668
@@ -749,6 +748,11 @@ GShard https://arxiv.org/abs/2006.16668
 Switch Transformers https://arxiv.org/abs/2101.03961
 
 https://blog.google/technology/ai/minimizing-carbon-footprint/
+
+### AI for sustainablity applications
+https://www.climatechange.ai/
+
+Tackling Climate Change with Machine Learning https://arxiv.org/abs/1906.05433
 
 ## SQL
 ### Courses 
