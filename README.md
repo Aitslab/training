@@ -584,6 +584,8 @@ GoogLeNet https://storage.googleapis.com/pub-tools-public-publication-data/pdf/4
 
 ResNet https://arxiv.org/pdf/1512.03385.pdf
 
+Vision transformers: https://arxiv.org/abs/2010.11929
+
 ## NLP
 ### Courses 
 CS224n NLP course from Stanford
@@ -716,7 +718,7 @@ LSTM http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&
 
 Google machine translation https://arxiv.org/abs/1609.08144
 
-Transformer https://arxiv.org/abs/1706.03762
+Transformer/Attention https://arxiv.org/abs/1706.03762
 
 ULMFiT https://arxiv.org/abs/1801.06146
 
