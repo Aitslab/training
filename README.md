@@ -212,6 +212,11 @@ Dataquest Data Analyst path (some free, some $)
 
 https://www.dataquest.io/path/data-analyst/
 
+Lund University COMPUTE graduate school PhD course on reproducible datascience with Jupyter
+
+https://github.com/COMPUTE-LU/jupyter-course
+
+
 
 ### Books
 Python for Everybody: Exploring Data In Python 3 by Charles Severance
@@ -550,6 +555,11 @@ EECS 498-007 / 598-005: Deep Learning for Computer Vision from University of Mic
 https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/
 
 https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r
+
+Lund University COMPUTE PhD course "AI in medicine and life science - AI for image and video data"
+
+https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021
+
 ### Books
 
 Computer Vision: Algorithms and Applications by Richard Szeliski
