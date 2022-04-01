@@ -718,6 +718,10 @@ Tutorial for Huggingface Tokenization
 
 https://colab.research.google.com/github/huggingface/notebooks/blob/master/examples/token_classification.ipynb#scrollTo=vc0BSBLIIrJQ
 
+Video about BERT
+
+https://www.youtube.com/watch?v=xI0HHN5XKDo
+
 Lars Juhl Jensen slideshare
 
 https://www.slideshare.net/larsjuhljensen
