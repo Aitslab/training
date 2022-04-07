@@ -18,7 +18,7 @@ https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000022
 
 https://www.theverge.com/2020/1/27/21080253/ai-cancer-diagnosis-dangers-mammography-google-paper-accuracy
 
-## Illustrating the importance of data sharing snd access
+## Illustrating the importance of data sharing and access
 
 European single market on data
 
