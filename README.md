@@ -25,7 +25,7 @@ Here is a suggested learning path for getting started in data science. Resources
 
 
 
-## General data science and programming basics
+## General data science, programming and software development practices
 Anaconda installation
 
 https://www.datacamp.com/community/tutorials/installing-anaconda-windows
@@ -47,17 +47,14 @@ Google Colab
 
 https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/colab.html
 
-Software engineering best practices
-
-https://www.pythonlikeyoumeanit.com/Module5_OddsAndEnds/Writing_Good_Code.html
-
-https://scikit-learn.org/stable/developers/contributing.html
 
 Hardware recommendations
 
 https://blog.slavv.com/picking-a-gpu-for-deep-learning-3d4795c273b9
 
 https://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/
+
+
 
 ### Books
 How to think like a data scientist 
@@ -119,6 +116,15 @@ https://github.com/IFB-ElixirFr/IFB-FAIR-bioinfo-training
 
 https://the-turing-way.netlify.app/welcome.html
 
+## Software engineering
+
+Software engineering best practices
+
+https://www.pythonlikeyoumeanit.com/Module5_OddsAndEnds/Writing_Good_Code.html
+
+https://scikit-learn.org/stable/developers/contributing.html
+
+
 ### Version control and Git
 
 https://try.github.io/
@@ -126,6 +132,17 @@ https://try.github.io/
 https://the-turing-way.netlify.app/reproducible-research/vcs.html#rr-vcs
 
 https://swcarpentry.github.io/git-novice/
+
+https://realpython.com/python-git-github-intro/
+
+### Continuous integration
+
+https://realpython.com/python-continuous-integration/
+
+CircleCI training resources
+
+https://circleci.com/resources/
+
 
 ## Python
 Official Python documentation
