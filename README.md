@@ -151,8 +151,18 @@ https://realpython.com/python-git-github-intro/
 
 https://realpython.com/advanced-git-for-pythonistas/
 
+Git feature branch workflow
+
+https://gist.github.com/bhpayne/a65d1f9a33daafd4afcab64614b9aaf8
+
+http://www.continuousagile.com/unblock/branching.html
+
+https://learngitbranching.js.org/
+
 
 ### Continuous integration
+
+http://www.continuousagile.com/unblock/
 
 https://realpython.com/python-continuous-integration/
 
