@@ -25,7 +25,7 @@ Here is a suggested learning path for getting started in data science. Resources
 
 9. Try solving specific tasks you are interested in, e.g. from your research project or daily life, using machine learning, and just continue learning the things that are required to solve these tasks.
 
-10. Learn about more advanced topics that suit your interests: docker/singularity, continuous integration, parallel programming
+10. Learn about more advanced topics that suit your interests: docker/singularity, continuous integration/unit testing/build automatization, parallel programming
 
 
 
@@ -130,14 +130,27 @@ https://scikit-learn.org/stable/developers/contributing.html
 
 
 ### Version control and Git
+Pro Git book
+
+https://git-scm.com/book/en/v2
+
+- Installing git
+
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
 
 https://try.github.io/
+
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests
 
 https://the-turing-way.netlify.app/reproducible-research/vcs.html#rr-vcs
 
 https://swcarpentry.github.io/git-novice/
 
 https://realpython.com/python-git-github-intro/
+
+https://realpython.com/advanced-git-for-pythonistas/
+
 
 ### Continuous integration
 
@@ -151,6 +164,17 @@ Jenkins documentation
 
 https://www.jenkins.io/doc/book/
 
+flake8 - to check compatibility with python style guide
+
+https://flake8.pycqa.org/
+
+#### Unit testing
+
+https://realpython.com/python-testing/
+
+pytest documentation (tool for unit testing)
+
+https://docs.pytest.org/
 
 ## Python
 Official Python documentation
@@ -204,13 +228,6 @@ scikit-image
 
 https://scikit-image.org/
 
-flake8 - to check compatibility with python style guide
-
-https://flake8.pycqa.org/
-
-pytest - for unit testing
-
-https://docs.pytest.org/
 
 ### Courses
 
