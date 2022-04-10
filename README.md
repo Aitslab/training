@@ -5,7 +5,7 @@ You can find links to organizations which provide physical courses (in physicalc
 
 Here is a suggested learning path for getting started in data science. Resources are below:
 
-1. Install Anaconda and get familiar with its main functions and jupyter notebooks. Alternatively, if your own computer is limited, get familiar with Google colab.
+1. Install Anaconda (or Miniconda), get familiar with conda environments and jupyter notebooks. Alternatively, if your own computer is limited, get familiar with Google colab.
 
 2. Learn Python basics
 
@@ -13,15 +13,19 @@ Here is a suggested learning path for getting started in data science. Resources
 
 4. Get familiar with the basics of data visualization: matplotlib
 
-5. Get a conceptual understanding of the core principles of machine learning and deep learning
+5. Get a conceptual understanding of the core principles of machine learning and deep learning and hardware basics (GPU, CPU, memory)
 
-6. Get a basic understanding of the main machine learning libraries: pytorch, keras
+6. Get a basic understanding of the main machine learning libraries: pytorch and keras/tensorflow
+
+7. Learn how to evaluate machine learning models: metrics, confusion matrices, learning curves
 
 7. Familiarize yourself with the concepts and tools of data science reproducibility: git, FAIR principles
 
 8. Familiarize yourself with the main concepts and tools in your main area of interest, e.g. image analysis, nlp
 
 9. Try solving specific tasks you are interested in, e.g. from your research project or daily life, using machine learning, and just continue learning the things that are required to solve these tasks.
+
+10. Learn about more advanced topics that suit your interests: docker/singularity, continuous integration, parallel programming
 
 
 
@@ -143,6 +147,10 @@ CircleCI training resources
 
 https://circleci.com/resources/
 
+Jenkins documentation
+
+https://www.jenkins.io/doc/book/
+
 
 ## Python
 Official Python documentation
@@ -195,6 +203,14 @@ https://scikit-learn.org/
 scikit-image
 
 https://scikit-image.org/
+
+flake8 - to check compatibility with python style guide
+
+https://flake8.pycqa.org/
+
+pytest - for unit testing
+
+https://docs.pytest.org/
 
 ### Courses
 
