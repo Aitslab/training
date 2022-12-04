@@ -92,6 +92,16 @@ CS109B: Advanced Topics in Data Science from Harvard
 https://harvard-iacs.github.io/2018-CS109B/
 
 
+### Video tutorials
+The Coding Train youtube channel
+
+https://www.youtube.com/user/shiffman/playlists
+
+Corey Schafer youtube channel
+
+https://www.youtube.com/user/schafer5/playlists
+
+
 ### Blogs
 
 https://jvns.ca/
@@ -103,6 +113,7 @@ http://jakevdp.github.io/
 ### Podcasts
 
 https://dataskeptic.com/
+
 
 ### Other resources
 Stackoverflow forum
