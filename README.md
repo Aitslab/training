@@ -420,6 +420,10 @@ CS230 Deep Learning course from Stanford
 
 https://cs230.stanford.edu/
 
+CS50AI Introduction to Artificial Intelligence with Python from Harvard
+
+https://cs50.harvard.edu/ai/2020/
+
 CS188 Introduction to Artificial Intelligence from Berkeley
 
 https://inst.eecs.berkeley.edu/~cs188/fa20/
