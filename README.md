@@ -252,7 +252,9 @@ https://scikit-image.org/
 
 ### Courses
 
-Python courses by University of Michigan on coursera or edx
+Python for Everybody courses by University of Michigan
+
+https://www.py4e.com/
 
 https://www.coursera.org/specializations/python
 
@@ -262,6 +264,8 @@ https://www.edx.org/bio/charles-severance
 Codecademy Python course
 
 https://www.codecademy.com/learn/learn-python
+
+
 
 Analytics Vidhya Python course
 
@@ -286,6 +290,25 @@ https://www.dataquest.io/path/data-analyst/
 Lund University COMPUTE graduate school PhD course on reproducible datascience with Jupyter
 
 https://github.com/COMPUTE-LU/jupyter-course
+
+Freecodecamp courses
+- How to Analyze Data with Python, Pandas & Numpy - 10 Hour Course
+
+https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/ 
+
+https://www.youtube.com/watch?v=GPVsHOlRBBI
+
+- Python Data Science – A Free 12-Hour Course for Beginners. Learn Pandas, NumPy, Matplotlib, and More
+
+https://www.freecodecamp.org/news/python-data-science-course-matplotlib-pandas-numpy/
+
+https://www.youtube.com/watch?v=LHBE6Q9XlzI
+
+- Matplotlib Course – Learn Python Data Visualization
+
+https://www.freecodecamp.org/news/matplotlib-course-learn-python-data-visualization/
+
+https://www.youtube.com/watch?v=3Xc3CA655Y4
 
 
 
