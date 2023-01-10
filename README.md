@@ -785,6 +785,8 @@ Evaluating Text Output in NLP: BLEU at your own risk https://towardsdatascience.
 
 Steps for effective text data cleaning (with case study using Python) https://www.analyticsvidhya.com/blog/2014/11/text-data-cleaning-steps-python/
 
+Explanation of WordPiece tokenization and NER with BERT https://towardsdatascience.com/named-entity-recognition-with-bert-in-pytorch-a454405e0b6a
+
 ### Other resources
 SciSpacy
 
