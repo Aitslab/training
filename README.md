@@ -894,6 +894,8 @@ Immersive Maths (interactive linear algebra book)
 
 http://immersivemath.com
 
+Normalization methods explained https://towardsdatascience.com/normalization-techniques-in-python-using-numpy-b998aa81d754
+
 ### Courses
 Computational Linear Algebra for Coders by Fast.ai
 
