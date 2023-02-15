@@ -310,6 +310,10 @@ https://www.freecodecamp.org/news/matplotlib-course-learn-python-data-visualizat
 
 https://www.youtube.com/watch?v=3Xc3CA655Y4
 
+Brief intro to pandas
+
+https://levelup.gitconnected.com/20-pandas-functions-for-80-of-your-data-science-tasks-b610c8bfe63c
+
 
 
 ### Books
