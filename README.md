@@ -173,8 +173,6 @@ https://learngitbranching.js.org/
 
 ### Continuous integration
 
-http://www.continuousagile.com/unblock/
-
 https://realpython.com/python-continuous-integration/
 
 CircleCI training resources
