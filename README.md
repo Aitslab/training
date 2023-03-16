@@ -131,6 +131,12 @@ https://github.com/IFB-ElixirFr/IFB-FAIR-bioinfo-training
 
 https://the-turing-way.netlify.app/welcome.html
 
+
+
+## Knowledge graphs
+
+https://github.com/turing-knowledge-graphs/teaching/
+
 ## Software engineering
 
 Software engineering best practices
