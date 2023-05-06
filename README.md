@@ -571,6 +571,14 @@ Machine Learning Yearning: Technical Strategy for AI Engineers, In the Era of De
 by Andrew Ng
 
 https://www.deeplearning.ai/machine-learning-yearning/
+
+A Cookbook of Self-Supervised Learning
+
+https://arxiv.org/abs/2304.12210
+
+Deep Learning Tuning Playbook
+
+https://github.com/google-research/tuning_playbook
  
  
 ### Blogs
