@@ -859,6 +859,52 @@ T5 https://arxiv.org/abs/1910.10683
 Speech recognition https://arxiv.org/abs/1712.01769
 
 
+## Graph theory and graph-based machine learning
+### Courses
+CS224W: Machine Learning with Graphs from Stanford
+
+https://web.stanford.edu/class/cs224w/
+
+Graph Neural Networks (ESE 5140) from Penn Engineering
+
+https://gnn.seas.upenn.edu/
+
+Stanford Graph Learning Workshop 2022
+
+https://www.youtube.com/watch?v=GYW286H3SKw
+
+### Books
+Graph Representation Learning Book by William L. Hamilton
+
+https://www.cs.mcgill.ca/~wlh/grl_book/
+
+Network Science by Albert-László Barabási 
+
+http://networksciencebook.com/
+
+Networks, Crowds, and Markets: Reasoning About a Highly Connected World by David Easley and Jon Kleinberg
+
+https://www.cs.cornell.edu/home/kleinber/networks-book/
+
+
+### Tutorials
+Understanding Convolutions on Graphs
+
+https://distill.pub/2021/understanding-gnns/
+
+
+A Gentle Introduction to Graph Neural Networks
+
+https://distill.pub/2021/gnn-intro/
+
+A Practical Tutorial on Graph Neural Networks
+
+https://arxiv.org/abs/2010.05234
+
+Tutorials by Stanford CS224W students
+
+https://medium.com/stanford-cs224w
+
 ## Explainability resources
 
 Grad-Cam tutorial
