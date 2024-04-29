@@ -716,8 +716,6 @@ CS224n NLP course from Stanford
 
 http://web.stanford.edu/class/cs224n/
 
-https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
-
 Fast.ai NLP course
 
 https://github.com/fastai/course-nlp
@@ -766,6 +764,11 @@ https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp
 A Primer on Neural Network Models for Natural Language Processing by Yoav Goldberg
 
 u.cs.biu.ac.il/~yogo/nnlp.pdf
+
+
+Natural Language Processing with Transformers by Lewis Tunstall, Leandro von Werra, and Thomas Wolf
+
+https://transformersbook.com/
 
 Introduction to Information Retrieval by Christopher D. Manning, Prabhakar Raghavan & Hinrich Schütze 
 
