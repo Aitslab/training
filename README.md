@@ -757,6 +757,8 @@ Speech and Language Processing by Dan Jurafsky and James H. Martin
 
 https://web.stanford.edu/~jurafsky/slp3/
 
+https://web.stanford.edu/~jurafsky/slpdraft/
+
 Coreference chapter: https://web.stanford.edu/~jurafsky/slp3/22.pdf 
 
 
