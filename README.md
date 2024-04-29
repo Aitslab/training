@@ -716,6 +716,10 @@ CS224n NLP course from Stanford
 
 http://web.stanford.edu/class/cs224n/
 
+HuggingFace NLP Course
+
+https://huggingface.co/learn/nlp-course/
+
 Fast.ai NLP course
 
 https://github.com/fastai/course-nlp
@@ -728,7 +732,7 @@ https://www.coursera.org/learn/language-processing
 
 Natural Language Processing from Berkeley
 
-https://people.ischool.berkeley.edu/~dbamman/nlp20.html
+https://people.ischool.berkeley.edu/~dbamman//nlp23.html
 
 Applied Natural Language Processing from Berkeley
 
