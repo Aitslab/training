@@ -972,6 +972,11 @@ Computational Linear Algebra for Coders by Fast.ai
 
 https://github.com/fastai/numerical-linear-algebra/
 
+### Videos
+3 Blue 1 Brown - animated maths
+
+https://www.youtube.com/c/3blue1brown
+
 ### Books
 Mathematics for Machine Learning
 
