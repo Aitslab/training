@@ -968,6 +968,10 @@ http://immersivemath.com
 Normalization methods explained https://towardsdatascience.com/normalization-techniques-in-python-using-numpy-b998aa81d754
 
 ### Courses
+Mathematics for Machine Learning by Imperial College/Coursera
+
+https://www.coursera.org/specializations/mathematics-machine-learning
+
 Computational Linear Algebra for Coders by Fast.ai
 
 https://github.com/fastai/numerical-linear-algebra/
