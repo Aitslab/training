@@ -968,6 +968,14 @@ Computational Linear Algebra for Coders by Fast.ai
 
 https://github.com/fastai/numerical-linear-algebra/
 
+Khan Academy - Linear Algebra
+
+https://www.khanacademy.org/math/linear-algebra
+
+Introduction to Statistics by Stanfod/Coursera
+
+https://www.coursera.org/learn/stanford-statistics
+
 ### Videos
 3 Blue 1 Brown - animated maths
 
@@ -985,6 +993,10 @@ https://www.deeplearningbook.org/contents/part_basics.html
 Mathematical Methods for Physics and Engineering by Riley, Hobson, Bence
 
 https://www.cambridge.org/se/academic/subjects/physics/mathematical-methods/mathematical-methods-physics-and-engineering-comprehensive-guide-3rd-edition?format=PB&isbn=9780521679718
+
+Introduction to Linear Algebra, Sixth Edition by Gilbert Strang
+
+https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html
 
 ## Practice datasets
 https://scikit-learn.org/stable/datasets/
