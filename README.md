@@ -132,6 +132,22 @@ Knowledge graphs in the life sciences by Wageningen University
 
 https://wur.gitlab.io/linkeddata/docs/intro.html
 
+Semantic Web Technologies and Knowledge Graphs by City, University of London
+
+https://github.com/turing-knowledge-graphs/teaching/tree/main/city
+
+Neural-symbolic Knowledge Representation and Reasoning by University of Manchester, UK
+
+https://github.com/turing-knowledge-graphs/teaching/tree/main/uom
+
+Knowledge Graphs by TU Dresden
+
+https://iccl.inf.tu-dresden.de/web/Knowledge_Graphs_(WS2023)/en
+
+Knowledge Graphs by University of Edinburgh
+
+https://opencourse.inf.ed.ac.uk/kg/course-materials/schedule
+
 ### Other resources
 
 https://github.com/turing-knowledge-graphs/teaching/
