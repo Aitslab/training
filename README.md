@@ -127,6 +127,13 @@ https://the-turing-way.netlify.app/welcome.html
 
 ## Knowledge graphs
 
+### Courses
+Knowledge graphs in the life sciences by Wageningen University
+
+https://wur.gitlab.io/linkeddata/docs/intro.html
+
+### Other resources
+
 https://github.com/turing-knowledge-graphs/teaching/
 
 ## Software engineering
